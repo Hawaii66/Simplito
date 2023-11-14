@@ -7,7 +7,7 @@ export default function Home() {
       }}
     >
       <div className="w-2/3 lg:w-1/4 aspect-square">
-        <img src="/logo.png" className="w-full" />
+        <img src="/simplito.png" className="w-full" />
       </div>
     </main>
   );
